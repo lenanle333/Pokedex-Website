@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pokédex</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="loading-page">
+      <div class="headers">
+        <h1>Pokédex</h1>
+        <h2>Generation V</h2>
+        <div class="pokeballs">
+          <img
+            class="pokeball-pixel"
+            src="assets/pokeball-pixel.svg"
+            alt="pokeball"
+          /><img
+            class="pokeball-pixel"
+            src="assets/pokeball-pixel.svg"
+            alt="pokeball"
+          /><img
+            class="pokeball-pixel"
+            src="assets/pokeball-pixel.svg"
+            alt="pokeball"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="gradient-page"></div>
+    <div id="pokemon-page" class="pokemon-page">
+      <div class="search-bar">
+        <div class="search">
+          <input
+            type="text"
+            placeholder="Search a pokemon..."
+            autocomplete="off"
+          />
+          <button><img src="assets/pokeball-search.svg" /></button>
+        </div>
+        <div class="results"></div>
+      </div>
+      <div class="pokedex">
+        <div class="pokemon-cards"></div>
+      </div>
+      <div class="page-buttons">
+        <a href="#pokemon-page"><button class="prev-btn">Prev</button></a>
+        <a href="#pokemon-page"><button class="next-btn">Next</button></a>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
