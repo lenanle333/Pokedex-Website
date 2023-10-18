@@ -15,4 +15,4 @@ This project, built using HTML, CSS, and JavaScript, leverages the power of the 
 
 ### Pokemon Popup Card Mobile
 ![Example of a pokemon card in mobile](https://github.com/lenanle333/Pokedex-Website/blob/main/Pokedex%20Website%20Images/Pokemon%20Website%20-%20Mobile%20Popup%20Card%201.png?raw=true)
-![Example of a pokemon card in mobile]([https://github.com/lenanle333/Pokedex-Website/blob/main/Pokedex%20Website%20Images/Pokemon%20Website%20-%20Popup%20Card%202.png?raw=true](https://github.com/lenanle333/Pokedex-Website/blob/main/Pokedex%20Website%20Images/Pokemon%20Website%20-%20Mobile%20Popup%20Card%202.png?raw=true)https://github.com/lenanle333/Pokedex-Website/blob/main/Pokedex%20Website%20Images/Pokemon%20Website%20-%20Mobile%20Popup%20Card%202.png?raw=true)
+![Example of a pokemon card in mobile](https://github.com/lenanle333/Pokedex-Website/blob/main/Pokedex%20Website%20Images/Pokemon%20Website%20-%20Mobile%20Popup%20Card%202.png?raw=true)
