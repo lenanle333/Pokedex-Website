@@ -385,6 +385,9 @@
 }
 
 .close-btn {
+	width: 3rem;
+	height: 3rem;
+	font-size: 2rem;
 	outline: none;
 	border-radius: 5px;
 	color: var(--black);
